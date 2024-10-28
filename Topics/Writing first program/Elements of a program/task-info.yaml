@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - fun
+  - main
+  - "println(\"Hello, World!\")"
+  - "\"Hello, World!\""
+options:
+  - name
+  - literal
+  - statement
+  - keyword
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4366#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

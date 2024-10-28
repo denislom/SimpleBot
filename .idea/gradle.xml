@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Simple Chat Bot (Kotlin)/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Decoding a specific user command" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Invitations and gifts" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Match operations and definitions" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Night watch and motion magic" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Operations allowed" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Previous character" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Sequence" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment some lines" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Boys in the sport class" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Comparing numbers. Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/The form of declaration without type inference" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Think as compiler" />
+            <option value="$PROJECT_DIR$/Topics/Data types/What is type inference" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/At the same time" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Counting chaos and the final tally" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, then decrement an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time format" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Brewing code for the perfect cup" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Creating a greeting message function" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Invoking a greeting function and printing its output" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Lembas" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Returning a result" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Two arguments" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with readln/Check the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with readln/Read a Double" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with readln/Read data correctly" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with readln/Reversed output" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/All definitions" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Create a program using Java's Scanner class for user input" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Four numbers" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Scanner" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/The suitable inputs" />
+            <option value="$PROJECT_DIR$/Topics/Standard input with Java Scanner/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Generating custom notification message for user" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Greeting with birth year calculation" />
+            <option value="$PROJECT_DIR$/Topics/String templates/How to write string templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/String and its Int" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Templates for expressions" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/The superior forces of the Empire" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Correct operations" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Last symbol" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Operations and truth" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Reverse a line of text input" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The information about a person" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The same line" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Constructing a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Creating a personalized greeting message" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Creating a statement about Kotlin's inauguration year" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Declaring and printing various literals in a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Elements of a program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Fill in the blanks to display greeting message and number" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Find the keyword" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Identifier" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Name of an entry point" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The Hello World program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The eternal truth" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

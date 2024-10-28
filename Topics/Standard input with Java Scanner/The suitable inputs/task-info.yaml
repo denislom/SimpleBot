@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Hello<br>We love kotlin 123
+  - text: Hello World
+  - text: Hello<br>World
+  - text: Hello there<br>World
+  - text: Hello
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4446#comment
+status: Solved
+record: -1
+local_check: false

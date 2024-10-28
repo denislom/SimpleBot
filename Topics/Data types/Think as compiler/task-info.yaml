@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: -1<br>Kotlin
+  - text: error on line 4
+  - text: 0<br>Kotlin
+  - text: undefined<br>Kotlin
+  - text: error on line 2
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16075#comment
+status: Solved
+record: -1
+local_check: false
