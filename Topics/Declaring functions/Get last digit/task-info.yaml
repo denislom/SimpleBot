@@ -2,12 +2,11 @@ type: code
 files:
   - name: src/Main.kt
     visible: true
-    highlight_level: NONE
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4623#comment
+feedback_link: https://hyperskill.org/learn/step/4589#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: "Tue, 29 Oct 2024 00:28:35 UTC"
+  time: "Sun, 03 Nov 2024 22:42:52 UTC"
 record: -1
 submission_language: kotlin
